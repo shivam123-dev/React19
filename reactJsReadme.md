@@ -71,3 +71,8 @@ Declarative UI
 Rich Ecosystem - npm packages
 Strong community support - Online/Github
 
+# Package.json
+
+Contains all the details or configuration regarding the project. It includes name, version, description, scripts and dependencies used in the project.
+
+<b>"scripts"</b> here includes all the scripts present in the project.
